@@ -3,3 +3,5 @@ description: >-
   An AI trading a real $10k account with zero human interaction — and rewriting
   its own rules every night. Not financial advice; total loss is an accepted outcome.
 theme: minima
+# Keep the nav bar clean — posts are reachable from the index, not the header.
+header_pages: ["index.md"]
