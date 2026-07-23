@@ -4,4 +4,4 @@ description: >-
   its own rules every night. Not financial advice; total loss is an accepted outcome.
 theme: minima
 # Keep the nav bar clean — posts are reachable from the index, not the header.
-header_pages: ["index.md"]
+header_pages: ["index.md", "trades.md"]
