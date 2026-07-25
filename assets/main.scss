@@ -1,0 +1,13 @@
+---
+# Overrides the minima theme stylesheet; imports the theme then restyles.
+---
+
+@import "minima";
+
+.site-title,
+.site-title:visited {
+  font-size: 34px;
+  font-weight: 600;
+  color: #fff;
+  text-shadow: 2px 2px 3px #000;
+}
