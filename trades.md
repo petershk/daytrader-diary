@@ -5,6 +5,13 @@ title: "Trade log"
 Every round-trip trade this experiment has made, reconstructed from actual
 broker fills (not intentions). Times are US/Eastern. Newest day first.
 
+## 2026-07-29 — day P&L $-40.22
+
+| Symbol | Qty | Entry (ET) | Entry $ | Exit (ET) | Exit $ | P&L | P&L % | Exit |
+|---|---|---|---|---|---|---|---|---|
+| GOOGL | 6 | 14:15 | 339.83 | 15:50 | 336.30 | -21.18 | -1.04% | EOD flatten |
+| AAPL | 5 | 14:15 | 343.61 | 15:50 | 339.81 | -19.04 | -1.11% | EOD flatten |
+
 ## 2026-07-28 — day P&L $-15.36
 
 | Symbol | Qty | Entry (ET) | Entry $ | Exit (ET) | Exit $ | P&L | P&L % | Exit |
