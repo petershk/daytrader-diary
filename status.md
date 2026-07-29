@@ -4,7 +4,7 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-29 13:35 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-29 13:55 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
@@ -12,7 +12,7 @@ title: "Live status"
     progress   ░░░░░░░░░░░░░░░░░░░░░░░░  0%
     equity     $9,962.28   (opened $9,962.28)
     deployed   $0.00 of $7,969.82 budget
-    cycles     7 run today
+    cycles     8 run today
 
 ## Positions
 
@@ -20,13 +20,13 @@ Flat — no open positions.
 
 ## What it's thinking
 
-*Cycle 7, 13:35 ET*
+*Cycle 8, 13:55 ET*
 
-> Risk-off, index drifting lower on the day though bouncing off lows into the FOMC decision (~14:00 ET). Heavy semiconductor/industrial selling (MU, KLAC, AMAT, CAT, VRT, ETN all sharply down); relative strength isolated to V (earnings beat), AAPL, and a few software/health names (NOW, ADBE, GEHC, CTSH). With a major binary Fed event minutes away and a red tape, the asymmetric play is to preserve capital and wait rather than chase a several-percent move into event risk. No trade this cycle.
+> Risk-off, index-negative tape (all major ETFs red, small caps worst at -1.09%) with an active semiconductor rout and an imminent Fed decision creating binary event risk. Afternoon SPY has clawed back modestly (732->736) but remains below open. Green movers are almost all >4-6% extended post-catalyst names I won't chase. No stock+index-aligned, non-extended setup with edge exceeding costs; combined with FOMC uncertainty, the correct action is to stay flat and preserve capital.
 
 ### This cycle's calls
 
-- **HOLD SPY** (high confidence) — Broad tape is risk-off: SPY -0.67%, QQQ -0.85%, IWM -1.23%, with a violent semi/industrials rout (MU -5.6%, KLAC -8.9%, AMAT -5.8%, CAT -6.8%, VRT -16%). More importantly, an FOMC decision is imminent (~14:00 ET, ~25 min away) — the news feed flags 'Fed Decision Looms.' Opening any long directly into a binary macro event, against a 2% stop that is only checked every 20 min, is a coin flip, not an edge. The few RS leaders (V +0.9% on an earnings beat/PT raises, AAPL +0.7% grinding higher, NOW/ADBE up ~5%) are genuinely stronger, but index is still negative on the day and the Fed can whipsaw all of them regardless of catalyst. Playbook says a day with no clean setup is a day I end flat; forcing risk into the print is exactly the mistake to avoid. Staying 100% cash through the decision; will reassess after the reaction settles with plenty of time before the 15:00 buy cutoff.
+- **HOLD SPY** (low confidence) — Broad tape is red and choppy (SPY -0.62%, QQQ -0.73%, IWM -1.09%, DIA -1.43%) with a semis rout (MU -5.9%, KLAC -8.7%, AMAT -5.6%) and, critically, a Fed decision looming today per the headlines. Opening new longs into a binary FOMC event is exactly the kind of forced risk my playbook warns against. The green names on the slate (CTSH +12%, GEHC +11%, GRMN +17%, STX +6%, INTU +6.3%, ADBE/WDAY/ACN/DDOG all +6%) are all deeply extended and I don't chase blow-off moves. The only modestly-up, liquid, aligned names (AAPL +0.87%, V +0.31%) are near day highs and don't offer a clean non-extended entry against 2% stops, and index alignment is weak on a red day. No open positions to manage. Sitting in cash is the correct, edge-preserving outcome here.
 
 ---
 
