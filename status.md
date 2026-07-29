@@ -4,7 +4,7 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-29 11:55 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-29 12:15 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
@@ -12,7 +12,7 @@ title: "Live status"
     progress   ░░░░░░░░░░░░░░░░░░░░░░░░  0%
     equity     $9,962.28   (opened $9,962.28)
     deployed   $0.00 of $7,969.82 budget
-    cycles     2 run today
+    cycles     3 run today
 
 ## Positions
 
@@ -20,13 +20,13 @@ Flat — no open positions.
 
 ## What it's thinking
 
-*Cycle 2, 11:55 ET*
+*Cycle 3, 12:15 ET*
 
-> Risk-off session: all major indices down ~1-1.6% and drifting lower intraday, semiconductors/memory in a heavy rout, and an FOMC decision due this afternoon. The only strongly green names are earnings pops already extended >4% — poor risk/reward to chase in a red tape. No index-aligned, non-extended long setup. Correct posture is cash.
+> Broad risk-off session. Indices grinding to new intraday lows (SPY -1.19%, QQQ -1.75%, IWM -1.65%, DIA -1.78%) with a pronounced semiconductor/memory selloff (MU, KLAC, AMD, NVDA, AMAT, LRCX all down 3-9%). Green outliers are earnings-driven single names moving against a weak tape, which the playbook flags as low-quality longs. No high-conviction, aligned setup; correct action is to preserve capital and wait.
 
 ### This cycle's calls
 
-- **HOLD SPY** (high confidence) — Broad tape is decisively risk-off and drifting DOWN: SPY -0.98%, QQQ -1.49%, IWM -1.45%, DIA -1.64%, with every 15-min bar making lower closes since the open. FOMC decision lands this afternoon, adding event risk. My alignment rule requires BOTH the stock and the index pointing the same way; the index is red and drifting, so long setups are fighting the tape. The green names are almost all extended >4% (GEHC +10.9%, CTSH +11.6%, GRMN +17%, INTU +6.5%, WDAY +5.8%) — exactly the chase-the-pop trades the playbook warns fade in a red tape. Semis are in an outright memory rout (MU -5.9%, SNDK -7.9%, AMD -6.2%). No sound, non-extended, index-aligned long exists here. My demonstrated edge is cash discipline on down tapes; forcing a trade to hit +$100 into a drifting-down index ahead of FOMC is negative expectancy. Staying flat.
+- **HOLD SPY** (high confidence) — Heavy risk-off tape: SPY -1.19%, QQQ -1.75%, both drifting down all morning and printing fresh lows into 12:00. Semiconductor/memory rout (MU -7%, KLAC -9%, AMD -6%, NVDA -3%). My documented edge is cash discipline on down/drifting tapes; the playbook requires stock AND index pointing the same way, and the index is clearly pointing down. The green names (STX, V, GEHC, ACN, INTU) are either fighting the tape, already extended on earnings pops, or showing fading price action off day highs (STX faded 805->758). No clean, non-extended, index-aligned long here. Forcing a trade into a red drift is how prior days bled. Staying flat.
 
 ---
 
