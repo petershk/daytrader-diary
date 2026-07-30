@@ -4,34 +4,33 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-30 10:16 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-30 10:35 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
-    P&L        +$13.42  of $100 target
-    progress   ███░░░░░░░░░░░░░░░░░░░░░  13%
-    equity     $9,935.39   (opened $9,921.97)
+    P&L        +$4.12  of $100 target
+    progress   █░░░░░░░░░░░░░░░░░░░░░░░  4%
+    equity     $9,926.09   (opened $9,921.97)
     deployed   $3,800.00 of $7,937.58 budget
-    cycles     3 run today
+    cycles     1 run today
 
 ## Positions
 
 | symbol | shares | entry | value | stop | unrealised |
 |---|---:|---:|---:|---:|---:|
-| MA | 3 | 576.92 | $1,731.33 | 565.38 | +0.57 |
-| NVDA | 10 | 194.45 | $1,957.20 | 190.56 | +12.73 |
+| NVDA | 10 | 194.45 | $1,969.30 | 190.56 | +24.83 |
 
 ## What it's thinking
 
-*Cycle 3, 10:16 ET*
+*Cycle 1, 10:35 ET*
 
-> Genuinely strong risk-on day: SPY +1.16% and QQQ +2.83%, both green on the day AND trending up on intraday bars, driven by benign core PCE (0.1% m/m) and MSFT's Azure earnings blowout. This is the index-aligned green tape the playbook says to actually trade - unlike the red-bounce traps of prior days. Discipline focus is EXTENSION: most movers are 8-20% earnings gappers that are prime fade candidates; I'm sticking to modestly-up RS leaders (NVDA +3%, MA +2.5%) and avoiding blow-off pops. Already +$13 on NVDA; letting the winner run and adding measured, non-extended exposure toward the $100 target.
+> Broad risk-on rally: SPY +1.2%, QQQ +3.29%, both making intraday higher highs — the first cleanly green, up-trending tape in days. Powered by Microsoft's Azure earnings beat (+15%) and a semis/AI melt-up (MU, AMD, INTC, AMAT all +14-16%). The problem is nearly every mover is already extended well past the 4% chase threshold. Holding NVDA (working leader, aligned) and cutting MA (fading laggard). Declining to chase the extended names; P&L +$4 with disciplined selectivity intact.
 
 ### This cycle's calls
 
-- **HOLD NVDA** (medium confidence) — Holding winner. NVDA +2.97%, RS leader, only modestly up (not extended), bars trending up all morning into new highs. Index (SPY +1.16%, QQQ +2.83%) is genuinely GREEN and trending UP intraday - the exact condition the playbook requires. Let the working trend run.
-- **BUY NVDA** (medium confidence) — Adding to the clean, non-extended, index-aligned momentum leader up to the 30% per-name cap (~$2381). On today's strong risk-on tape (benign PCE + MSFT Azure beat driving Nasdaq +600), NVDA at +3% is the least-extended quality AI leader vs the earnings gappers (MSFT +15%, MU +13%, WDC +16%) which are far too extended to chase.
-- **BUY MA** (low confidence) — Second diversifier: Mastercard +2.51%, modestly up (non-extended), steady intraday, financials participating in a broad green tape with a positive CFO catalyst. Liquid mega-cap (quote_unavailable is a feed artifact, not illiquidity). Adds a non-semiconductor leg so I'm not doubling all risk into one AI name.
+- **SELL MA** (high confidence) — MA is a clear laggard fading to its day low (-1.37%) while SPY is +1.2% and QQQ +3.29% and both trending up hard. In a strongly green tape a payments name showing relative weakness against a roaring index is not where I want capital. Cut the loser early per playbook rather than ride it toward the 2% stop, and free the position slot.
+- **HOLD NVDA** (medium confidence) — NVDA is my one working RS leader, +1.43% unrealized, at day highs in a broad AI-led rally (QQQ +3.29%). Sound index-aligned trend — let the winner run rather than churn it. Not adding: position is near the 30% cap and NVDA is already +3.76% on the day.
+- **HOLD SPY** (low confidence) — Tape is genuinely green and trending up for once — real index alignment. But the leadership names are massively extended (MSFT +15%, MU +16%, AMD +16%, INTC +14%, AMZN +4.7% into earnings tonight), and playbook explicitly says do not chase names up >4%, especially blow-off pops at highs. No non-extended, clean-entry candidate on the slate justifies new risk, so I decline to force a new buy and keep NVDA as my only long.
 
 ---
 
