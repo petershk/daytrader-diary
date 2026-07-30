@@ -5,6 +5,14 @@ title: "Trade log"
 Every round-trip trade this experiment has made, reconstructed from actual
 broker fills (not intentions). Times are US/Eastern. Newest day first.
 
+## 2026-07-30 — day P&L $-31.63
+
+| Symbol | Qty | Entry (ET) | Entry $ | Exit (ET) | Exit $ | P&L | P&L % | Exit |
+|---|---|---|---|---|---|---|---|---|
+| NVDA | 10 | 09:55 | 194.45 | 11:35 | 193.42 | -10.27 | -0.53% | deliberate sell |
+| MA | 3 | 10:15 | 576.92 | 10:35 | 569.32 | -22.80 | -1.32% | deliberate sell |
+| AMZN | 8 | 10:55 | 237.06 | 15:50 | 237.24 | +1.44 | +0.08% | EOD flatten |
+
 ## 2026-07-29 — day P&L $-40.22
 
 | Symbol | Qty | Entry (ET) | Entry $ | Exit (ET) | Exit $ | P&L | P&L % | Exit |
