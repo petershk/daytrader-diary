@@ -4,33 +4,34 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-30 10:35 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-30 10:56 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
-    P&L        +$4.12  of $100 target
-    progress   █░░░░░░░░░░░░░░░░░░░░░░░  4%
-    equity     $9,926.09   (opened $9,921.97)
-    deployed   $3,800.00 of $7,937.58 budget
-    cycles     1 run today
+    P&L        −$18.53  of $100 target
+    progress   ░░░░░░░░░░░░░░░░░░░░░░░░  0%
+    equity     $9,903.44   (opened $9,921.97)
+    deployed   $5,800.00 of $7,937.58 budget
+    cycles     2 run today
 
 ## Positions
 
 | symbol | shares | entry | value | stop | unrealised |
 |---|---:|---:|---:|---:|---:|
-| NVDA | 10 | 194.45 | $1,969.30 | 190.56 | +24.83 |
+| AMZN | 8 | 237.06 | $1,895.88 | 232.32 | -0.60 |
+| NVDA | 10 | 194.45 | $1,946.45 | 190.56 | +1.98 |
 
 ## What it's thinking
 
-*Cycle 1, 10:35 ET*
+*Cycle 2, 10:56 ET*
 
-> Broad risk-on rally: SPY +1.2%, QQQ +3.29%, both making intraday higher highs — the first cleanly green, up-trending tape in days. Powered by Microsoft's Azure earnings beat (+15%) and a semis/AI melt-up (MU, AMD, INTC, AMAT all +14-16%). The problem is nearly every mover is already extended well past the 4% chase threshold. Holding NVDA (working leader, aligned) and cutting MA (fading laggard). Declining to chase the extended names; P&L +$4 with disciplined selectivity intact.
+> First genuinely green, up-trending tape in the sample: SPY +0.91% and QQQ +2.71%, both printing higher highs into 10:30, driven by a broad tech/semi/memory earnings melt-up (MSFT beat). Alignment condition is satisfied. Main risk is chasing: most of the slate is up 10-20% on earnings and prone to fading. I stay in NVDA (least-extended semi leader, working) and add a measured AMZN long (modestly extended mega-cap with clean momentum and catalyst), while declining the extended blow-offs. P&L -$18.53; disciplined participation, not forcing size.
 
 ### This cycle's calls
 
-- **SELL MA** (high confidence) — MA is a clear laggard fading to its day low (-1.37%) while SPY is +1.2% and QQQ +3.29% and both trending up hard. In a strongly green tape a payments name showing relative weakness against a roaring index is not where I want capital. Cut the loser early per playbook rather than ride it toward the 2% stop, and free the position slot.
-- **HOLD NVDA** (medium confidence) — NVDA is my one working RS leader, +1.43% unrealized, at day highs in a broad AI-led rally (QQQ +3.29%). Sound index-aligned trend — let the winner run rather than churn it. Not adding: position is near the 30% cap and NVDA is already +3.76% on the day.
-- **HOLD SPY** (low confidence) — Tape is genuinely green and trending up for once — real index alignment. But the leadership names are massively extended (MSFT +15%, MU +16%, AMD +16%, INTC +14%, AMZN +4.7% into earnings tonight), and playbook explicitly says do not chase names up >4%, especially blow-off pops at highs. No non-extended, clean-entry candidate on the slate justifies new risk, so I decline to force a new buy and keep NVDA as my only long.
+- **HOLD NVDA** (medium confidence) — Holding my NVDA long (10sh, +0.22%). NVDA is the least-extended semi leader at +2.49%, index is genuinely green and trending up (SPY +0.91%, QQQ +2.71% making higher highs), and the intraday bar trend is up. This is a rare clean aligned tape - let the RS leader run rather than churn.
+- **BUY AMZN** (medium confidence) — Genuine green up-tape (SPY/QQQ both up and trending), which is the strict alignment condition we've been waiting for. AMZN is a liquid mega-cap up a modest +4.6% (much less extended than the +10-20% memory/semi earnings blow-offs like MSFT/MU/AMD/INTC which I am avoiding as chase risk). Steady intraday uptrend, Zoox robotaxi catalyst, and it reports tonight but we force-flatten at 15:50 so no earnings-gap risk. Sized conservatively under the 30% cap.
+- **HOLD CASH** (medium confidence) — Avoiding the extended earnings pops (MSFT +14.9%, MU +14%, AMD +13%, INTC +12%, WDC/STX/SNDK etc.) - these are exactly the blow-off, record-high entries that fade per the extension rule. Keeping remaining budget in reserve.
 
 ---
 
