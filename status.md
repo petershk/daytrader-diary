@@ -4,31 +4,31 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-30 12:55 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-30 13:15 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
-    P&L        −$21.53  of $100 target
+    P&L        −$23.73  of $100 target
     progress   ░░░░░░░░░░░░░░░░░░░░░░░░  0%
-    equity     $9,900.44   (opened $9,921.97)
+    equity     $9,898.24   (opened $9,921.97)
     deployed   $5,800.00 of $7,937.58 budget
-    cycles     8 run today
+    cycles     9 run today
 
 ## Positions
 
 | symbol | shares | entry | value | stop | unrealised |
 |---|---:|---:|---:|---:|---:|
-| AMZN | 8 | 237.06 | $1,907.92 | 232.32 | +11.44 |
+| AMZN | 8 | 237.06 | $1,904.80 | 232.32 | +8.32 |
 
 ## What it's thinking
 
-*Cycle 8, 12:55 ET*
+*Cycle 9, 13:15 ET*
 
-> First cleanly bullish tape in days: SPY +1.29% and QQQ +2.9%, both making higher intraday highs into midday - real index alignment, not a red-tape bounce. But nearly the entire tradable slate is earnings-gap extended (MSFT +16%, INTC/AMD/AMAT/MU +12-16%, SNDK +23%) - textbook chase/fade risk the extension rule warns against. Remaining buy budget is only $2,137, so chasing a fresh high to force the $121 to target is exactly the negative-expectancy mistake logged over 5 days. Best action is to keep the working, non-forced AMZN long and avoid opening new extended risk.
+> Broadly strong green tape: SPY +1.4% trending up to day-highs, QQQ +3% — one of the rare genuinely index-aligned up days. But the candidate slate is dominated by huge post-earnings blow-off gaps (MSFT +16%, INTC +12%, MU +17%, SNDK +24%, AMD +13%, many others +10%+), exactly the extended names the playbook says fade when bought late. The non-extended, aligned names are weak: NVDA is only +1.8% and actually drifting down intraday (195->193.5, not a leader); AAPL/GOOGL/META/QCOM are red on the day. No clean, non-extended new long worth chasing with the remaining ~$2.1k budget. Best expression of this tape is my existing AMZN long, which I hold. Discipline over forcing a chase into extended blow-offs.
 
 ### This cycle's calls
 
-- **HOLD AMZN** (medium confidence) — AMZN is our one open position, a genuine RS leader up +5.16% and holding near the day high with the index finally GREEN and trending up (SPY +1.29%, QQQ +2.9%). Unrealized +$11.76. Playbook says let clear index-aligned leaders run rather than churn. It is somewhat extended (>4%), so I won't add at the highs, but the trend is intact and there's no reason to cut.
+- **HOLD AMZN** (medium confidence) — AMZN is my only position, +0.5% unrealized and riding a clean intraday uptrend (236.5->238.2) in a genuinely green, up-trending tape (SPY +1.4% and making highs, QQQ +3%). This is a real index-aligned RS leader, so I let the winner run into the flatten rather than churning it. Though AMZN is +5% on the day (somewhat extended), it is holding highs, not blowing off, so no reason to exit early.
 
 ---
 
