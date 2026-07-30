@@ -4,31 +4,31 @@ title: "Live status"
 
 # Running
 
-*Updated 2026-07-30 13:35 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
+*Updated 2026-07-30 13:55 ET — refreshes after each decision cycle, roughly every 20 minutes. If the timestamp is stale by more than that, the bot has stopped checking in.*
 
 ## Today
 
-    P&L        −$28.93  of $100 target
+    P&L        −$28.57  of $100 target
     progress   ░░░░░░░░░░░░░░░░░░░░░░░░  0%
-    equity     $9,893.04   (opened $9,921.97)
+    equity     $9,893.40   (opened $9,921.97)
     deployed   $5,800.00 of $7,937.58 budget
-    cycles     10 run today
+    cycles     11 run today
 
 ## Positions
 
 | symbol | shares | entry | value | stop | unrealised |
 |---|---:|---:|---:|---:|---:|
-| AMZN | 8 | 237.06 | $1,899.80 | 232.32 | +3.32 |
+| AMZN | 8 | 237.06 | $1,901.28 | 232.32 | +4.80 |
 
 ## What it's thinking
 
-*Cycle 10, 13:35 ET*
+*Cycle 11, 13:55 ET*
 
-> Broad tape is finally a real green-and-up day: SPY +1.36% and QQQ +3.07% with intraday bars trending higher on a Microsoft-led chip rebound (SNDK +24%, MU +18%, INTC +13%, AMD +14%). This is the alignment condition the playbook wants — but nearly every tradable name is grotesquely extended (up 8-24% on earnings/rebound), squarely in the 'do not chase' zone that has burned us repeatedly. NVDA (+1.77%) is the only modestly-up index-aligned semi, but its bars are choppy/flat rather than cleanly trending, and semis gap through the 2% stop. With only $2,137 of buy budget left, reaching the remaining $129 target would require an unrealistic ~6% move on full deployment — not worth forcing into extended entries. Correct play: hold the existing AMZN long, take no new extended-chase risk.
+> Broad tape is genuinely green and trending up today (SPY +1.42%, QQQ +3.11%) — the risk-on setup the playbook waits for, driven by a MSFT-led chip rebound (SNDK +24%, MU +18%, AMD +14%, INTC +13%). However nearly every candidate is already extended +10-24% on the day, exactly the blow-off/chase profile the extension rule forbids. The few modestly-up names (NVDA +1.9%) have been choppy/flat all afternoon with no clean momentum. With P&L at -$28.57 and $2,137 budget left, forcing an entry into extended semis at 13:55 is the recurring mistake. Best action: hold the working AMZN long and take no new risk on chase-priced names.
 
 ### This cycle's calls
 
-- **HOLD AMZN** (medium confidence) — AMZN is +4.74% on the day and has faded from its 239.49 high back to ~237.5, right at my 237.06 entry (+$4 unrealized). Index tape is genuinely green (SPY +1.36%, QQQ +3.07%) and trending up, which supports holding, but AMZN is now extended and rolling over off highs rather than breaking out. No reason to add or cut here — hold and monitor; the 2% stop protects the downside and force-flatten handles the exit.
+- **HOLD AMZN** (medium confidence) — AMZN is my one open long, +0.24% since entry and holding near day highs (+4.77%) on a genuinely strong risk-on tape (SPY +1.42% and QQQ +3.11%, both trending up intraday). It's consolidating 237-239 without breaking down. Let the index-aligned winner run into the afternoon rather than churn it. Stop and EOD flatten already protect it.
 
 ---
 
